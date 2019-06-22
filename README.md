@@ -52,6 +52,7 @@ Install from PyPI
 
 ![example1](https://github.com/leavin296/ShirtFashion/blob/master/example/example1.png?raw=true)
 ![example2](https://github.com/leavin296/ShirtFashion/blob/master/example/example2.png?raw=true)
+![example3](https://github.com/leavin296/ShirtFashion/blob/master/example/example3.png?raw=true)
 
 ## License
 
